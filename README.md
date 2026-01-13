@@ -16,7 +16,7 @@ Here is a look at the original UI design from 2021:
 This project was a collaborative effort by:
 * **Justus Finke**
 * **Daniel Tverdunov**
-* **[Senin Adın]**
+* **Kaan Kara**
 
 ## 🛠️ Technical Highlights
 * **LAN Multiplayer:** Implemented using **Java Sockets**. Players on the same network can join a shared session.
