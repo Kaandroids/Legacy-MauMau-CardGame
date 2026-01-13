@@ -33,3 +33,13 @@ Since this app uses **JavaFX**, you need the appropriate runtime components to r
 Install a JDK that includes JavaFX, such as **Azul Zulu (JDK FX)** or **Bellsoft Liberica (Full JDK)**. Then simply run:
 ```bash
 java -jar Cardgame.jar
+```
+
+## 🎓 Academic Context
+* **University:** Leibniz Universität Hannover (LUH)
+* **Degree:** B.Sc. Computer Science (Informatik)
+* **Course:** Programmieren II
+* **Year:** 2021
+
+---
+*Preserving the original hustle. Created with ❤️ at Uni Hannover.*
